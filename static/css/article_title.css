@@ -1,9 +1,12 @@
-article-title{
+.article-title{
     font-family: 'roboto, sans-serif'
 }
 
-aticle-title h2{
+.article-title h2{
     font-size: 48px;
     font-weight: bold;
+    color: black;
     line-height: 1;
+    padding-top: 60px;
+    padding-bottom: 30px;
 }
