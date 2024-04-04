@@ -1,5 +1,6 @@
 .article-title{
-    font-family: 'roboto, sans-serif'
+    font-family: 'roboto, sans-serif';
+    padding-top: 60px;
 }
 
 .article-title h2{
